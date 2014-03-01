@@ -10,6 +10,14 @@
     "querySelectorAll",
     "Array"
   ],
+  "homepage": "https://github.com/timmak/domqueryall",
+  "bugs":{
+    "url" : "https://github.com/timmak/domqueryall/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/timmak/domqueryall.git"
+  },
   "testling": {
     "browsers": [
       "ie/8..latest",
