@@ -1,7 +1,7 @@
 {
-  "name": "domQueryAll",
+  "name": "domqueryall",
   "version": "0.1.0",
-  "description": "return queryselectorall query all as an array",
+  "description": "return queryselectorall as an array",
   "main": "index.js",
   "scripts": {
     "test": "browserify test.js | testling"
