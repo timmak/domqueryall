@@ -1,0 +1,27 @@
+{
+  "name": "domQueryAll",
+  "version": "0.1.0",
+  "description": "return queryselectorall query all as an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "browserify test.js | testling"
+  },
+  "keywords": [
+    "querySelectorAll",
+    "Array"
+  ],
+  "testling": {
+    "browsers": [
+      "ie/8..latest",
+      "chrome/22..latest",
+      "firefox/16..latest",
+      "safari/5..latest",
+      "opera/11.0..latest",
+      "iphone/6",
+      "ipad/6",
+      "android-browser/latest"
+    ]
+  },
+  "author": "Tim Pinington",
+  "license": "ISC"
+}
